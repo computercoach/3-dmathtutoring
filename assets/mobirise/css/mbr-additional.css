@@ -411,19 +411,23 @@ h6,
   color: #c0a375;
 }
 .scrollToTop_wraper {
-  opacity: 0 !important;
+  display: none;
 }
-#header2-9 .mbr-section-title {
-  text-align: center;
-  font-size: 36px;
+#header6-1h .mbr-section-title {
+  color: #ffffff;
   font-family: 'Raleway', sans-serif;
+  font-size: 36px;
 }
-#header2-9 .mbr-section-text {
-  text-align: left;
-  font-size: 20px;
+#header6-1h .mbr-section-text {
+  color: #ffffff;
+  font-size: 22px;
 }
-#header2-9 .mbr-section-title SPAN {
-  font-size: 24px;
+#header6-1h .mbr-section-text I {
+  color: #ffffff;
+  font-size: 23px;
+}
+#header6-1h .btn {
+  font-size: 12px;
 }
 #msg-box2-1b .mbr-section-title {
   color: #fff;
