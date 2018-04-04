@@ -105,7 +105,7 @@
             }
           },
           "title": "Welcome to 3-D Math Tutoring",
-          "text": "<i>Specializing in</i> <br><i>Elementary Math, Middle School Math</i><br><i>and Algebra 1</i><br><i><br></i>",
+          "text": "<i>Specializing in</i> <br><i>Elementary Math, Middle School Math</i><br><i>and Algebra 1</i><i><br></i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ASK A CERTIFIED TEACHER</a>",
           "_tags": [
             "Theme"
